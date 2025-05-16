@@ -8,4 +8,6 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 
 **Normalizing Flow** [colab notebook](https://colab.research.google.com/drive/1KeuzX8Gz8jur0yHDqQiJbX3xROLLZTFv?usp=sharing)
 
+**Glow** [colab notebook](https://colab.research.google.com/drive/1pBNbH8v3gSH731cQCpysFiqviaDgKry7?usp=sharing)
+
 **Flow Matching** [colab notebook](https://colab.research.google.com/drive/1-HvyrSjoERrcN5Lv-7Y73ane5734dRBZ?usp=sharing)
