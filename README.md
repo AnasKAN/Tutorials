@@ -24,6 +24,9 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 ---
 ## Reinforcement learning (RL)
 
+valuable references
+
+[guide and tutorial to RL landscape]([https://t.co/SjMdabl0yW](https://arxiv.org/abs/2412.05265))
 ---
 ## Graph neural nets (GNNs)
 
