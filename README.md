@@ -30,7 +30,7 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 ---
 ## NLP
 
-**Attention and its variants**[colab notebook]()
+**Attention and its variants** [colab notebook]()
 
 ---
 ## Distillation techniques & Vector Quantization techniques
