@@ -34,3 +34,12 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 
 ---
 ## Distillation techniques & Vector Quantization techniques
+
+---
+## DimRed
+* PCA
+* SVD
+* QR Decomp
+* LU Decomp
+* t-SNE
+* uMAP
