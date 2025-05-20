@@ -29,3 +29,6 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 
 ---
 ## NLP
+
+---
+## Distillation & VQ
