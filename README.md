@@ -42,7 +42,7 @@ valuable references
 ---
 ## DimRed
 * PCA
-* SVD
+* SVD and randomized SVD
 * QR Decomp
 * LU Decomp
 * t-SNE
