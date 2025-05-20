@@ -16,6 +16,8 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 
 **GANs** [colab notebook](https://colab.research.google.com/drive/1kwzyuUwg6W8qi-GKkB9_1-_Yh7zPeIYa?usp=sharing)
 
+**Style GANs** [colab notebook]()
+
 ---
 ## Multimodalities and contrastive learning (CLIP, DINO, etc...)
 
