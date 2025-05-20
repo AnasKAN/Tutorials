@@ -14,7 +14,7 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 
 **Flow Matching** [colab notebook](https://colab.research.google.com/drive/1-HvyrSjoERrcN5Lv-7Y73ane5734dRBZ?usp=sharing)
 
-**GANs** [colab notebook](https://colab.research.google.com/drive/1kwzyuUwg6W8qi-GKkB9_1-_Yh7zPeIYa?usp=sharing)
+**GANs variants** [colab notebook](https://colab.research.google.com/drive/1kwzyuUwg6W8qi-GKkB9_1-_Yh7zPeIYa?usp=sharing)
 
 **Style GANs** [colab notebook]()
 
@@ -30,5 +30,7 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 ---
 ## NLP
 
+**Attention and its variants**[colab notebook]()
+
 ---
-## Distillation & VQ
+## Distillation techniques & Vector Quantization techniques
