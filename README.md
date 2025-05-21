@@ -10,7 +10,7 @@ this repo will contain notebooks we made for tutorial purposes, to benefit ppl w
 * Raghad Alsuhaibani
 * Joori Alsaif
 * Abdulelah Alturki
-* Faris 
+* [Faris](https://github.com/ifaris25)
 * Qassim Mahfood 
 
 ---
