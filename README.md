@@ -1,5 +1,17 @@
 # Tutorials
-this repo will contain notebooks i made for tutorial purposes, to benefit ppl who are excited to learn new things!
+this repo will contain notebooks we made for tutorial purposes, to benefit ppl who are excited to learn new things!
+
+**contributers**:
+* Anas Aldadi
+* Anas Alhakami
+* Mohammed Alsaif
+* Wajd Alhuzaym
+* Firas Alsadeq
+* Raghad Alsuhaibani
+* Joori Alsaif
+* Abdulelah Alturki
+* Faris 
+* Qassim Mahfood 
 
 ---
 ## Generative archetictures
@@ -27,6 +39,8 @@ this repo will contain notebooks i made for tutorial purposes, to benefit ppl wh
 valuable references
 
 [guide and tutorial to RL landscape](https://arxiv.org/abs/2412.05265)
+
+[video playlist of RL](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=wROhCN0MQSHXdHms)
 
 ---
 ## Graph neural nets (GNNs)
