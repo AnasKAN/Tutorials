@@ -1,5 +1,5 @@
 # Tutorials
-this repo will contain notebooks we made for tutorial purposes, to benefit ppl who are excited to learn new things!
+this repo will contain notebooks which are made for tutorial purposes, to benefit ppl who are excited to learn new things!
 
 **contributers**:
 * Anas Aldadi
