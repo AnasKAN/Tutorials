@@ -3,6 +3,7 @@ this repo will contain notebooks we made for tutorial purposes, to benefit ppl w
 
 **contributers**:
 * Anas Aldadi
+<!---
 * Anas Alhakami
 * Mohammed Alsaif
 * Wajd Alhuzaym
@@ -11,7 +12,8 @@ this repo will contain notebooks we made for tutorial purposes, to benefit ppl w
 * Joori Alsaif
 * Abdulelah Alturki
 * [Faris](https://github.com/ifaris25)
-* Qassim Mahfood 
+* Qassim Mahfood
+-->
 
 ---
 ## Generative archetictures
