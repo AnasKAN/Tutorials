@@ -50,7 +50,7 @@ valuable references
 ---
 ## NLP
 
-**Attention and its variants** [colab notebook]()
+**Attention and its variants** [colab notebook](https://colab.research.google.com/drive/1sSBClpW7LsxM4LDzVp57Plev7phJ2KEo?usp=sharing)
 
 ---
 ## Distillation techniques & Vector Quantization techniques
