@@ -1,0 +1,40 @@
+## Hello dear contributers you need to know certain things
+
+-folders' structure
+
+-rules to follow when contributing
+
+## Folders' structure
+
+I'll explain the structure breifly and it applies to all other folders.
+
+for Generative_Archetictures folder it is structured like this:
+	
+	->Distillation_VQ
+	->Generative_Archetictures-
+				|				
+				->Autoregressive
+				->Diffusion
+				->Flow_matching
+				...
+				->GANs	-
+					|
+					->GANs.ipynb
+					->comprehensiveGANs_files-
+								 |
+								 ->cGAN
+								 ->InfoGANs
+								 ...
+
+so in a nutshell every topic you explain make a folder for it if there isn't, and inside that folder put the .ipynb and make a folder for the images.
+if you gonna explain multiple archetictures inside one .ipynb like the GANs tutorial (which explained 7 archetictures) then it is advisable to organize 
+each archeticture inside its own folder inside the 'images folder'.
+
+## Rules to follow:
+
+->you need to train a model or if the tutorial is finetuning then you need to do so to make sure your implemenation works! (exception if you want to 
+explain a mechanism without touching the archeticture e.g. attention, affine coupling, etc...)
+
+->you need to upload the saved model to the shared google drive, don't push it to github.
+
+->kindly work on a branch. (don't push to main directly and thank you)
