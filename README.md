@@ -16,6 +16,9 @@ this repo will contain notebooks which are made for tutorial purposes, to benefi
 -->
 
 ---
+
+<img src="https://drive.google.com/uc?id=1gt3VRvxLig-NYWrtq6kpg2cLmWxc3glc" width="850"/>
+
 ## Generative archetictures
 
 **Conditional VAE generation** [colab notebook](https://t.co/iSSjqR7l4q)
@@ -33,9 +36,15 @@ this repo will contain notebooks which are made for tutorial purposes, to benefi
 **Style GANs** [colab notebook]()
 
 ---
+
+<img src="https://drive.google.com/uc?id=1CQpyk5IaX9Hs785NPiIXJOG67HCzClkU" width="850"/>
+
 ## Multimodalities and contrastive learning (CLIP, DINO, etc...)
 
 ---
+
+<img src="https://drive.google.com/uc?id=1rlLZ1eg3Z5oygWjeRAIW07YIv8zrMYNB" width="850"/>
+
 ## Reinforcement learning (RL)
 
 valuable references
@@ -45,17 +54,29 @@ valuable references
 [video playlist of RL](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=wROhCN0MQSHXdHms)
 
 ---
+
+<img src="https://drive.google.com/uc?id=1PO9exY3qrws1COIdcDE0WM56WvUPcJvG" width="850"/>
+
 ## Graph neural nets (GNNs)
 
 ---
+
+<img src="https://drive.google.com/uc?id=19Fed7hwdGtzZQQ-ps8ZaIYLdZ6xc0Ihz" width="850"/>
+
 ## NLP
 
 **Attention and its variants** [colab notebook](https://colab.research.google.com/drive/1sSBClpW7LsxM4LDzVp57Plev7phJ2KEo?usp=sharing)
 
 ---
+
+<img src="https://drive.google.com/uc?id=13qi-sLAQY-wI8Xb50eUE5EcwlBKcTB8K" width="850"/>
+
 ## Distillation techniques & Vector Quantization techniques
 
 ---
+
+<img src="https://drive.google.com/uc?id=1xDwhrUlNED7TWYLX89nFOh7FJLPHQgdM" width="850"/>
+
 ## DimRed
 * PCA
 * SVD and randomized SVD
