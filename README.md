@@ -2,7 +2,7 @@
 this repo will contain notebooks which are made for tutorial purposes, to benefit ppl who are excited to learn new things!
 
 **contributers**:
-* Anas Aldadi
+* [Anas Aldadi](https://github.com/AnasKAN)
 * [Faris](https://github.com/ifaris25)
 * [Qassim Mahfood](https://github.com/Qasim-11)
 <!---
