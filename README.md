@@ -5,9 +5,9 @@ this repo will contain notebooks which are made for tutorial purposes, to benefi
 * [Anas Aldadi](https://github.com/AnasKAN)
 * [Faris](https://github.com/ifaris25)
 * [Qassim Mahfood](https://github.com/Qasim-11)
+* [Mohammed Alsaif](https://github.com/Rayq-q)
 <!---
 * Anas Alhakami
-* Mohammed Alsaif
 * Wajd Alhuzaym
 * Firas Alsadeq
 * Raghad Alsuhaibani
