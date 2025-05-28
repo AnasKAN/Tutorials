@@ -95,3 +95,9 @@ valuable references
 ## Parameter Efficient Fine-Turning (PEFT)
 
 This section will tackle how to train models in the most efficient ways. such as LoRA, dreambooth their variants and many more!
+
+## Classical Computer Vision
+
+Checkout this cool repo made by fellow contributer [Qassim](https://github.com/Qasim-11) to learn important concepts in tranditional computer vision
+
+[classical computer vision techniques](https://github.com/Qasim-11/Image-Filtering-and-Edge-Detection-Guide)
