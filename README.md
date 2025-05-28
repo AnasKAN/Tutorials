@@ -96,7 +96,11 @@ valuable references
 
 This section will tackle how to train models in the most efficient ways. such as LoRA, dreambooth their variants and many more!
 
-## Classical Computer Vision
+---
+
+## Valuable resources from my friends and colleagues!! please check their cool work.
+
+### Classical Computer Vision
 
 Checkout this cool repo made by fellow contributer [Qassim](https://github.com/Qasim-11) to learn important concepts in tranditional computer vision
 
