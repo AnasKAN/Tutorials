@@ -17,10 +17,13 @@ this repo will contain notebooks which are made for tutorial purposes, to benefi
 
 ---
 
-
 ## Generative archetictures
 
 <img src="https://drive.google.com/uc?id=19Fed7hwdGtzZQQ-ps8ZaIYLdZ6xc0Ihz" width="850"/>
+
+Here you will get to learn the different ways of generative modelling, each archeticture is a unique point of view of how to generate data with clear trade offs!
+
+Some archeticture give you advantage of speed of inference but poor at quality, while some is the opposite. Some give you fast inference and high quality but harder to train! so every archeticture has its own pros and cons, and here you will learn most influential and popular archetictures.
 
 * **Conditional VAE generation** [colab notebook](https://t.co/iSSjqR7l4q)
 
@@ -86,3 +89,9 @@ valuable references
 * LU Decomp
 * t-SNE
 * uMAP
+
+---
+
+## Parameter Efficient Fine-Turning (PEFT)
+
+This section will tackle how to train models in the most efficient ways. such as LoRA, dreambooth their variants and many more!
