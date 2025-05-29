@@ -4,7 +4,7 @@ this repo will contain notebooks which are made for tutorial purposes, to benefi
 **contributers**:
 * [Anas Aldadi](https://github.com/AnasKAN)
 * [Faris](https://github.com/ifaris25)
-* [Qassim Mahfood](https://github.com/Qasim-11)
+* [Qasim Mahfood](https://github.com/Qasim-11)
 * [Mohammed Alsaif](https://github.com/Rayq-q)
 <!---
 * Anas Alhakami
@@ -69,7 +69,7 @@ valuable references
 ## NLP
 
 <img src="https://drive.google.com/uc?id=1MHP2Ia5N6LVGC0Zh_jt3RqyoQ3ILQM9O" width="850"/>
-
+* **Sequence Models (RNNs, LSTMs, GRUs)** [colab notebook](https://colab.research.google.com/drive/1QIfhXnbLJ38kpbSiVVNhPuh2EGLh9KZ9?usp=sharing)
 * **Attention and its variants** [colab notebook]()
 
 ---
@@ -103,6 +103,6 @@ This section will tackle how to train models in the most efficient ways. such as
 
 ### Classical Computer Vision
 
-Checkout this cool repo made by fellow contributer [Qassim](https://github.com/Qasim-11) to learn important concepts in tranditional computer vision
+Checkout this cool repo made by fellow contributer [Qasim](https://github.com/Qasim-11) to learn important concepts in tranditional computer vision
 
 [classical computer vision techniques](https://github.com/Qasim-11/Image-Filtering-and-Edge-Detection-Guide)
