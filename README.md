@@ -71,6 +71,7 @@ valuable references
 <img src="https://drive.google.com/uc?id=1MHP2Ia5N6LVGC0Zh_jt3RqyoQ3ILQM9O" width="850"/>
 
 * **Sequence Models (RNNs, LSTMs, GRUs)** [colab notebook](https://colab.research.google.com/drive/1QIfhXnbLJ38kpbSiVVNhPuh2EGLh9KZ9?usp=sharing)
+* **DeepSpeech** [colab notebook](https://colab.research.google.com/drive/1Lwz8UZ6YsZDj6mv3_6b_RAjRogEARyTZ?usp=sharing) 
 * **Attention and its variants** [colab notebook]()
 ---
 
