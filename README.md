@@ -79,6 +79,7 @@ valuable references
 
 <img src="https://drive.google.com/uc?id=13qi-sLAQY-wI8Xb50eUE5EcwlBKcTB8K" width="850"/>
 
+* **VQ-VAEs** [colab notebook](https://github.com/Mohamad-Atif1/paper2code/blob/main/vqvaes/VQVAE.ipynb)
 ---
 
 ## DimRed
