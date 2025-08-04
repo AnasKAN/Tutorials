@@ -108,3 +108,7 @@ This section will tackle how to train models in the most efficient ways. such as
 Checkout this cool repo made by fellow contributer [Qasim](https://github.com/Qasim-11) to learn important concepts in tranditional computer vision
 
 [classical computer vision techniques](https://github.com/Qasim-11/Image-Filtering-and-Edge-Detection-Guide)
+
+Another cool repo solely made to implement AI papers from scratch and deepen your understanding in the practical aspect along with theory, made by my friend Mohammed Alshabrawi: 
+
+[paper2code](https://github.com/Mohamad-Atif1/paper2code)
