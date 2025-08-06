@@ -3,10 +3,10 @@ this repo will contain notebooks which are made for tutorial purposes, to benefi
 
 **contributers**:
 * [Anas Aldadi](https://github.com/AnasKAN)
-* [Faris](https://github.com/ifaris25)
 * [Qasim Mahfood](https://github.com/Qasim-11)
-* [Mohammed Alsaif](https://github.com/Rayq-q)
 <!---
+* [Faris](https://github.com/ifaris25)
+* [Mohammed Alsaif](https://github.com/Rayq-q)
 * Anas Alhakami
 * Wajd Alhuzaym
 * Firas Alsadeq
