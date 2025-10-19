@@ -38,7 +38,7 @@ Some archeticture give you advantage of speed of inference but poor at quality, 
 
 * **GANs variants** [colab notebook](https://colab.research.google.com/drive/1kwzyuUwg6W8qi-GKkB9_1-_Yh7zPeIYa?usp=sharing)
 
-* **Style GANs** [colab notebook]()
+* **Style GANs** [colab notebook](https://colab.research.google.com/drive/1CscVtQ3pWKI8dzgJxtnT0na9k6ZdQ3OI?usp=sharing)
 
 ---
 
