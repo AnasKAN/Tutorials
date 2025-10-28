@@ -52,6 +52,8 @@ Some archeticture give you advantage of speed of inference but poor at quality, 
 
 <img src="https://drive.google.com/uc?id=1rlLZ1eg3Z5oygWjeRAIW07YIv8zrMYNB" width="850"/>
 
+REINFORCE [colab notebook](https://colab.research.google.com/drive/1huIIpRhbo9Jh-kyRR_umKwI8nGkxTdIW?usp=sharing)
+
 valuable references
 
 * [guide and tutorial to RL landscape](https://arxiv.org/abs/2412.05265)
