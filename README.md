@@ -41,11 +41,12 @@ Some archeticture give you advantage of speed of inference but poor at quality, 
 * **Style GANs** [colab notebook](https://colab.research.google.com/drive/1CscVtQ3pWKI8dzgJxtnT0na9k6ZdQ3OI?usp=sharing)
 
 ---
+<!---
 
 ## Multimodalities and contrastive learning (CLIP, DINO, etc...)
 
 <img src="https://drive.google.com/uc?id=1CQpyk5IaX9Hs785NPiIXJOG67HCzClkU" width="850"/>
-
+-->
 ---
 
 ## Reinforcement learning (RL)
@@ -84,6 +85,7 @@ valuable references
 * **VQ-VAEs** [colab notebook](https://github.com/Mohamad-Atif1/paper2code/blob/main/vqvaes/VQVAE.ipynb)
 ---
 
+<!---
 ## DimRed
 
 <img src="https://drive.google.com/uc?id=1xDwhrUlNED7TWYLX89nFOh7FJLPHQgdM" width="850"/>
@@ -94,12 +96,12 @@ valuable references
 * LU Decomp
 * t-SNE
 * uMAP
-
 ---
 
 ## Parameter Efficient Fine-Turning (PEFT)
 
 This section will tackle how to train models in the most efficient ways. such as LoRA, dreambooth their variants and many more!
+-->
 
 ---
 
