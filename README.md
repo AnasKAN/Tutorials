@@ -27,25 +27,25 @@ Here you will get to learn the different ways of generative modelling, each arch
 Some archeticture give you advantage of speed of inference but poor at quality, while some is the opposite. Some give you fast inference and high quality but harder to train! so every archeticture has its own pros and cons, and here you will learn most influential and popular archetictures.
 
 * **Conditional VAE generation** [colab notebook](https://t.co/iSSjqR7l4q)
-<img src="https://drive.google.com/uc?id=1pyjOsaVv9pTlF3cYcBBBsNiY-weFITuD" width="850"/>
+<img src="https://drive.google.com/uc?id=1pyjOsaVv9pTlF3cYcBBBsNiY-weFITuD" width="450"/>
 
 * **Conditional DDPM generation** [colab notebook](https://colab.research.google.com/drive/1APfyI9lhbShyjHSw0csiw-qYjcc4kOp7?usp=sharing)
-<img src="https://drive.google.com/uc?id=1FLpld6hr4BA2hZOfBRwd6Ox52eSCz8QU" width="850"/>
+<img src="https://drive.google.com/uc?id=1FLpld6hr4BA2hZOfBRwd6Ox52eSCz8QU" width="450"/>
 
 * **Normalizing Flow** [colab notebook](https://colab.research.google.com/drive/1KeuzX8Gz8jur0yHDqQiJbX3xROLLZTFv?usp=sharing)
-<img src="https://drive.google.com/uc?id=13jEBvzh0aLCYg1eXEL1Sp0j7JXtCqyY7" width="850"/>
+<img src="https://drive.google.com/uc?id=13jEBvzh0aLCYg1eXEL1Sp0j7JXtCqyY7" width="450"/>
 
 * **Glow** [colab notebook](https://colab.research.google.com/drive/1pBNbH8v3gSH731cQCpysFiqviaDgKry7?usp=sharing)
-<img src="https://drive.google.com/uc?id=1p0Hz5Atn_CS-IznLQVgExarbF3tauRXM" width="850"/>
+<img src="https://drive.google.com/uc?id=1p0Hz5Atn_CS-IznLQVgExarbF3tauRXM" width="450"/>
 
 * **Flow Matching** [colab notebook](https://colab.research.google.com/drive/1-HvyrSjoERrcN5Lv-7Y73ane5734dRBZ?usp=sharing)
-<img src="https://drive.google.com/uc?id=19Fed7hwdGtzZQQ-ps8ZaIYLdZ6xc0Ihz" width="850"/>
+<img src="https://drive.google.com/uc?id=1lymULfe43Bix5jmls9sCz6Ok3znj6zp5" width="450"/>
 
 * **GANs variants** [colab notebook](https://colab.research.google.com/drive/1kwzyuUwg6W8qi-GKkB9_1-_Yh7zPeIYa?usp=sharing)
-<img src="https://drive.google.com/uc?id=1x2twTNnCswya1U9kLF9vJNVfQVQAy0Cp" width="850"/>
+<img src="https://drive.google.com/uc?id=1x2twTNnCswya1U9kLF9vJNVfQVQAy0Cp" width="450"/>
 
 * **Style GANs** [colab notebook](https://colab.research.google.com/drive/1CscVtQ3pWKI8dzgJxtnT0na9k6ZdQ3OI?usp=sharing)
-<img src="https://drive.google.com/uc?id=12ar0tX-_k-kvvdpDNG_WGnHnlGSUq-Tm" width="850"/>
+<img src="https://drive.google.com/uc?id=12ar0tX-_k-kvvdpDNG_WGnHnlGSUq-Tm" width="450"/>
 
 ---
 <!---
