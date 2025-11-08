@@ -83,6 +83,7 @@ valuable references
 * **Sequence Models (RNNs, LSTMs, GRUs)** [colab notebook](https://colab.research.google.com/drive/1QIfhXnbLJ38kpbSiVVNhPuh2EGLh9KZ9?usp=sharing)
 * **DeepSpeech** [colab notebook](https://colab.research.google.com/drive/1Lwz8UZ6YsZDj6mv3_6b_RAjRogEARyTZ?usp=sharing) 
 * **Attention and its variants** [colab notebook]()
+* **Low-Rank Adaption (LoRA)** [colab notebook](https://colab.research.google.com/drive/1eGhqCF4QSMUzKBWH6_Obn3RqW__ip8vD?usp=sharing)
 ---
 
 ## Distillation techniques & Vector Quantization techniques
